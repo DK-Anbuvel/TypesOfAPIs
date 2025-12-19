@@ -1,0 +1,28 @@
+{
+  "version": "3.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@microsoft/signalr@10.0.0",
+      "destination": "wwwroot/lib/microsoft/signalr/"
+    }
+  ,
+{
+  "provider": "unpkg",
+  "library": "@microsoft/signalr@10.0.0",
+  "destination": "wwwroot/lib/microsoft/signalr/"
+}
+,
+{
+  "provider": "unpkg",
+  "library": "jquery@3.7.1",
+  "destination": "wwwroot/lib/jquery/"
+}
+,
+{
+  "provider": "unpkg",
+  "library": "bootstrap@5.3.8",
+  "destination": "wwwroot/lib/bootstrap/"
+}
+]
+}
