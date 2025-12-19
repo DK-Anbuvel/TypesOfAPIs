@@ -364,3 +364,4 @@ FodyWeavers.xsd
 /SignalRexamples/appsettings.json
 /SignalRexamples/wwwroot/lib
 
+/SignalRexamples/wwwroot/lib/bootstrap/LICENSE
